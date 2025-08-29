@@ -54,7 +54,7 @@ This repository contains **three Python-based investment strategy projects** app
 
 2. **Install dependencies**  
    ```bash
-   pip install pandas numpy yfinance matplotlib seaborn
+   pip install pandas numpy yfinance matplotlib seaborn scipy
    ```
 
 3. **Open Jupyter Notebook**  
